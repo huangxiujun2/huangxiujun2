@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi
+
+I am a student from NTUT, and major in AI/ML
 
 <!--
 **huangxiujun2/huangxiujun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
